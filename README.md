@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChristianJP (they/him)
-- 👀 I’m interested in EEG, Bioinformatics
+- 👀 I’m interested in EEG, Neurobiology, Machine Learning and Bioinformatics
 - 🌱 I have been an intern in Bioinformatics
 - 💞️ I am looking for EEG/EcoG/Electrophysiology processing.
 - 📫 How to reach me christianjamespollitt@gmail.com
