@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChristianJP (they/him)
 - 👀 I’m interested in EEG, Neurobiology, Machine Learning and Bioinformatics
 - 🌱 I have been an intern in Bioinformatics
-- 💞️ I am looking for EEG/EcoG/Electrophysiology processing.
+- 💞️ I am working at the University of Liverpool - Signals Research Team.
 - 📫 How to reach me christianjamespollitt@gmail.com
 
 <!---
