@@ -3,6 +3,8 @@ PhD Researcher | Bayesian Modeling | Signal Intelligence | Generative Systems
 
 
 “Information is the resolution of uncertainty.” – C.E. Shannon
+
+
 Model the noise right, and meaning emerges.
 
 🧠 Profile
