@@ -24,17 +24,17 @@ Probabilistic pipelines for noisy, high-dimensional data
 
 🔬 Active Projects
 
-🧬 Novel Algorithm Design
-Sensor fusion methods, and Generative Modelling in order improve posterior exploration.
-
-🛰 OU Behavior Engine
-Parameterized Ornstein–Uhlenbeck simulator for vessel and aircraft motion across six degrees of freedom. Encodes velocity, damping, process noise, and mean reversion.
-
-🎯 Image Segmentation and Automatic Labelling
-Based on methods to automatically label large data.
-
-🧠 EEG Signal Decoding (Legacy)
-Preprocessing, segmentation, and classification of EEG for biometric and neurocognitive research.
+      🧬 Novel Algorithm Design
+      Sensor fusion methods, and Generative Modelling in order improve posterior exploration.
+      
+      🛰 OU Behavior Engine
+      Parameterized Ornstein–Uhlenbeck simulator for vessel and aircraft motion across six degrees of freedom. Encodes velocity, damping, process noise, and mean reversion.
+      
+      🎯 Image Segmentation and Automatic Labelling
+      Based on methods to automatically label large data.
+      
+      🧠 EEG Signal Decoding (Legacy)
+      Preprocessing, segmentation, and classification of EEG for biometric and neurocognitive research.
 
 🛠 Tech Stack
 Languages: Python, MATLAB, LaTeX
