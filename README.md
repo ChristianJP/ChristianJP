@@ -1,11 +1,8 @@
 Christian James Pollitt
 PhD Researcher | Bayesian Modeling | Signal Intelligence | Generative Systems
 
+Set the world right; Do what's best - as above, so below.
 
-“Information is the resolution of uncertainty.” – C.E. Shannon
-
-
-Go back and fetch it. Sankofa
 Founder @ Dreamwrapped, MI.AI
 
 🧠 Profile
