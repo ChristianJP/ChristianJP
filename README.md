@@ -7,7 +7,10 @@ Founder @ Dreamwrapped, MI.AI
 
 🧠 Profile
 
-      Machine learning researcher focused on probabilistic modeling, adaptive inference, and signal classification. My work sits at the intersection of Bayesian simulation, generative systems, and sensor fusion, applied to real-world trajectory and signal data. Exploring Generative Modelling, AI and belief propagation. Building tools for perception.
+      Machine learning researcher focused on probabilistic modeling, adaptive inference, and signal classification. 
+      My work sits at the intersection of Bayesian simulation, generative systems, and sensor fusion, applied to real-world trajectory and signal data. 
+      Exploring Generative Modelling, AI and belief propagation. 
+      Building tools for perception.
 
 
 🔍 Research
@@ -37,15 +40,16 @@ Founder @ Dreamwrapped, MI.AI
       Preprocessing, segmentation, and classification of EEG for biometric and neurocognitive research.
 
 🛠 Tech Stack
-Languages: Python, MATLAB, LaTeX
-Libraries: NumPy, PyTorch, SciPy, pandas, seaborn, scikit-learn
-Inference: MCMC, SMC, RJMCMC, Kalman, OU, GP
-Domains: AIS/radar sensor fusion, time series, EEG, simulation, Bioinformatics, Neuroscience, Systems Biology
-Tools: Git, Docker, Jupyter, VS Code
+                                                                  Languages: Python, MATLAB, LaTeX
+                                                                  Libraries: NumPy, PyTorch, SciPy, pandas, seaborn, scikit-learn
+                                                                  Inference: MCMC, SMC, RJMCMC, Kalman, OU, GP
+                                                                  Domains: AIS/radar sensor fusion, time series, EEG, simulation, Bioinformatics, Neuroscience, Systems Biology
+                                                                  Tools: Git, Docker, Jupyter, VS Code
 
-🎓 Academic
+🎓 Academic History
 PhD, Machine Learning & Signal Modeling
 University of Liverpool, 2021–2025
+University of Manchester, Bsc Computer Science & Neuroscience (HCI)
 
 Researching adaptive Bayesian models for behavioral inference across fused maritime and aerial sensors.
 Emphasis on generative modeling, stochastic simulation, and sequential inference.
