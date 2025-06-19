@@ -8,23 +8,25 @@ PhD Researcher | Bayesian Modeling | Signal Intelligence | Generative Systems
 Model the noise right, and meaning emerges.
 
 🧠 Profile
-Machine learning researcher focused on probabilistic modeling, adaptive inference, and signal classification. My work sits at the intersection of Bayesian simulation, generative systems, and sensor fusion, applied to real-world trajectory and signal data.
 
-I’m currently developing adaptive MCMC methods, generative behavior engines, and simulation pipelines that merge complex stochastic processes with discretizable interpretable structure. Background in bioinformatics, EEG, and time-series analysis.
+Machine learning researcher focused on probabilistic modeling, adaptive inference, and signal classification. My work sits at the intersection of Bayesian simulation, generative systems, and sensor fusion, applied to real-world trajectory and signal data. Exploring Generative Modelling, AI and belief propagation. Building tools for perception.
 
-🔍 Research Focus
+
+🔍 Research
+
 Trajectory simulation & classification (OU models, 6DOF)
 
 Bayesian inference (SMC, RJMCMC, adaptive MCMC)
 
-Signal processing (radar, AIS, EEG)
+Signal processing (EEG)
 
-Generative modeling for spoof detection & behavior tagging
+Simulations and Automatic tagging
 
 Probabilistic pipelines for noisy, high-dimensional data
 
 🔬 Active Projects
-🧬 Algorithm Design
+
+🧬 Novel Algorithm Design
 Sensor fusion methods, and Generative Modelling in order improve posterior exploration.
 
 🛰 OU Behavior Engine
