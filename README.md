@@ -7,20 +7,20 @@ Founder @ Dreamwrapped, MI.AI
 
 🧠 Profile
 
-Machine learning researcher focused on probabilistic modeling, adaptive inference, and signal classification. My work sits at the intersection of Bayesian simulation, generative systems, and sensor fusion, applied to real-world trajectory and signal data. Exploring Generative Modelling, AI and belief propagation. Building tools for perception.
+      Machine learning researcher focused on probabilistic modeling, adaptive inference, and signal classification. My work sits at the intersection of Bayesian simulation, generative systems, and sensor fusion, applied to real-world trajectory and signal data. Exploring Generative Modelling, AI and belief propagation. Building tools for perception.
 
 
 🔍 Research
 
-Trajectory simulation & classification (OU models, 6DOF)
-
-Bayesian inference (SMC, RJMCMC, adaptive MCMC)
-
-Signal processing (EEG)
-
-Simulations and Automatic tagging
-
-Probabilistic pipelines for noisy, high-dimensional data
+            Trajectory simulation & classification (OU models, 6DOF)
+            
+            Bayesian inference (SMC, RJMCMC, adaptive MCMC)
+            
+            Signal processing (EEG)
+            
+            Simulations and Automatic tagging
+            
+            Probabilistic pipelines for noisy, high-dimensional data
 
 🔬 Active Projects
 
