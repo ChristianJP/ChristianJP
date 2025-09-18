@@ -25,18 +25,18 @@ Founder @ Dreamwrapped, MI.AI
             
             Probabilistic pipelines for noisy, high-dimensional data
 
-🔬 Active Projects
+🔬 Recent Projects
 
-      🧬 Novel Algorithm Design
-      Sensor fusion methods, and Generative Modelling in order improve posterior exploration.
+      Novel Algorithm Design
+      Variational Inference and Generative Modelling.
       
-      🛰 OU Behavior Engine
-      Parameterized Ornstein–Uhlenbeck simulator for vessel and aircraft motion across six degrees of freedom. Encodes velocity, damping, process noise, and mean reversion.
+      OU Behavior Engine
+      Classification and Outlier Detection using Parameter Inference.
       
-      🎯 Image Segmentation and Automatic Labelling
+      Image Segmentation and Automatic Labelling
       Based on methods to automatically label large data.
       
-      🧠 EEG Signal Decoding (Legacy)
+      EEG Signal Decoding (Legacy)
       Preprocessing, segmentation, and classification of EEG for biometric and neurocognitive research.
 
 🛠 Tech Stack
